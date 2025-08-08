@@ -24,8 +24,8 @@ Key metrics:
 ---
 
 ## ✅ Insights
-- Most claims from **25–34** age group (~674 claims)
-- **Kia Sorento** had highest claim payout ($0.66M)
+- Most claims from **65+** age group (~674 claims)
+- **Nissan Altima** had highest claim payout ($1.2M)
 - Urban regions drive more claims, but profits remain strong
 - Claims distribution varies slightly by gender and marital status
 
